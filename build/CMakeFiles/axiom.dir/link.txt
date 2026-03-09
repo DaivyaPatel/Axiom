@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\axiom.dir/objects.a
+C:\mingw-w64\mingw64\bin\ar.exe qc CMakeFiles\axiom.dir/objects.a @CMakeFiles\axiom.dir\objects1.rsp
+C:\mingw-w64\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\axiom.dir/objects.a -Wl,--no-whole-archive -o axiom.exe -Wl,--out-implib,libaxiom.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\axiom.dir\linkLibs.rsp

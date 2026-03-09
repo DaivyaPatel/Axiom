@@ -1,0 +1,5 @@
+C:/Users/daivy/Desktop/Projects/Axiom/build/CMakeFiles/axiom.dir
+C:/Users/daivy/Desktop/Projects/Axiom/build/CMakeFiles/axiom_simulator.dir
+C:/Users/daivy/Desktop/Projects/Axiom/build/CMakeFiles/fix_gateway_test.dir
+C:/Users/daivy/Desktop/Projects/Axiom/build/CMakeFiles/edit_cache.dir
+C:/Users/daivy/Desktop/Projects/Axiom/build/CMakeFiles/rebuild_cache.dir
