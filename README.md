@@ -1,4 +1,4 @@
-# AXIOM — Adaptive eXchange Infrastructure with Order Microstructure
+# AXIOM : Adaptive eXchange Infrastructure with Order Microstructure
 
 > A high-performance, lock-free order matching engine with a chaos-driven 
 > market microstructure simulator and FIX 4.2 protocol gateway.
