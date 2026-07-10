@@ -103,11 +103,11 @@ python src/websocket_server.py
 
 ## Technical Highlights
 
-- **Zero external dependencies** — custom lock-free queue, no Boost required
-- **Cache-line aware design** — false sharing eliminated via `alignas(64)`
-- **Chaos theory applied to finance** — Lorenz attractor as market microstructure model
-- **Industry protocol** — FIX 4.2, the standard used by NSE, NYSE, Binance
-- **Full stack** — protocol parsing → order matching → live data feed
+- **Zero external dependencies** - custom lock-free queue, no Boost required
+- **Cache-line aware design** - false sharing eliminated via `alignas(64)`
+- **Chaos theory applied to finance** - Lorenz attractor as market microstructure model
+- **Industry protocol** - FIX 4.2, the standard used by NSE, NYSE, Binance
+- **Full stack** - protocol parsing → order matching → live data feed
 
 ---
 
