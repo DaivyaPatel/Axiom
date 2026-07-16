@@ -110,5 +110,3 @@ python src/websocket_server.py
 - **Full stack** - protocol parsing → order matching → live data feed
 
 ---
-
-## Part of SummerFest'26 Trading Infrastructure Initiative
